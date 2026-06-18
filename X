@@ -1,9 +1,0 @@
-#./mvnw clean compile
-# ./mvnw spring-boot:run
-
-#Mots de passe des comptes créés
-#Utilisateur	Mot de passe	Rôle
-#admin	admin123	ADMIN
-#prof	prof123	ENSEIGNANT
-#agent	agent123	APPUI_INSERTION
-#etudiant1	etudiant123	ETUDIANT
